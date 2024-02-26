@@ -1,6 +1,4 @@
-{::nomarkdown}
 <!DOCTYPE html>
-{:/nomarkdown}
 <html lang="en">
   <head>
     <title>{{ site.title }}</title>

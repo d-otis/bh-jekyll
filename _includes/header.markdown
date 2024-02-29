@@ -45,7 +45,7 @@
                 </div>
               </li>
               <li class="nav-item dropdown">
-                <a href="/social/" class="nav-link text-lowercase" data-toggle="dropdown">[social]</a>
+                <a href="/social" class="nav-link text-lowercase" data-toggle="dropdown">[social]</a>
                 <div class="dropdown-menu">
                   <a target="_blank" href="http://www.facebook.com/BAATHHAUS" class="nav-link">
                     <i class="fab fa-facebook-square fa-2x align-middle"></i> Facebook

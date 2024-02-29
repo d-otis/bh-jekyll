@@ -28,7 +28,7 @@
           <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
             <ul id="menu-menu" class="navbar-nav">
               <li class="nav-item dropdown">
-                <a href="http://www.baathhaus.com/release/" class="nav-link text-lowercase" data-toggle="dropdown">[release]</a>
+                <a href="/release/" class="nav-link text-lowercase" data-toggle="dropdown">[release]</a>
                 <div class="dropdown-menu">
                   <a target="_blank" href="https://baathhaus.bandcamp.com/album/baathhaus" class="nav-link">
                     <i class="fab fa-bandcamp fa-2x align-middle"></i> Bandcamp
@@ -45,7 +45,7 @@
                 </div>
               </li>
               <li class="nav-item dropdown">
-                <a href="http://www.baathhaus.com/social/" class="nav-link text-lowercase" data-toggle="dropdown">[social]</a>
+                <a href="/social/" class="nav-link text-lowercase" data-toggle="dropdown">[social]</a>
                 <div class="dropdown-menu">
                   <a target="_blank" href="http://www.facebook.com/BAATHHAUS" class="nav-link">
                     <i class="fab fa-facebook-square fa-2x align-middle"></i> Facebook

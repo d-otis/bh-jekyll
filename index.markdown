@@ -59,17 +59,10 @@ layout: default
               decoding="async"
               loading="lazy"
               class="alignnone wp-image-70 size-large"
-              src="http://www.baathhaus.com/wp-content/uploads/2019/08/bh-noisey-1-1024x646.jpg"
+              src="images/bh-noisey-1-1024x646.jpg"
               alt=""
               width="1024"
               height="646"
-              srcset="
-                http://www.baathhaus.com/wp-content/uploads/2019/08/bh-noisey-1-1024x646.jpg 1024w,
-                http://www.baathhaus.com/wp-content/uploads/2019/08/bh-noisey-1-300x189.jpg   300w,
-                http://www.baathhaus.com/wp-content/uploads/2019/08/bh-noisey-1-768x485.jpg   768w,
-                http://www.baathhaus.com/wp-content/uploads/2019/08/bh-noisey-1.jpg          1274w
-              "
-              sizes="(max-width: 1024px) 100vw, 1024px"
           /></a>
         </p>
         <div class="mt-5" style="padding: 56.25% 0 0 0; position: relative">
@@ -105,7 +98,7 @@ layout: default
               <img
                 decoding="async"
                 class="card-img"
-                src="http://www.baathhaus.com/wp-content/uploads/2019/08/bh-nestor-smoke.jpg"
+                src="images/bh-nestor-smoke.jpg"
                 alt="..."
               />
             </p>
@@ -155,7 +148,7 @@ layout: default
             <img
               decoding="async"
               class="card-img"
-              src="http://www.baathhaus.com/wp-content/uploads/2019/08/aoa-magnum.jpg"
+              src="images/aoa-magnum.jpg"
               alt="..."
             />
             <p></p>
@@ -199,16 +192,10 @@ layout: default
               decoding="async"
               loading="lazy"
               class="alignnone wp-image-101 size-large"
-              src="http://www.baathhaus.com/wp-content/uploads/2019/08/bh-chicago-reader-967x1024.jpg"
+              src="images/bh-chicago-reader-967x1024.jpg"
               alt=""
               width="967"
               height="1024"
-              srcset="
-                http://www.baathhaus.com/wp-content/uploads/2019/08/bh-chicago-reader-967x1024.jpg 967w,
-                http://www.baathhaus.com/wp-content/uploads/2019/08/bh-chicago-reader-283x300.jpg  283w,
-                http://www.baathhaus.com/wp-content/uploads/2019/08/bh-chicago-reader-768x813.jpg  768w
-              "
-              sizes="(max-width: 967px) 100vw, 967px"
           /></a>
         </p>
       </div>

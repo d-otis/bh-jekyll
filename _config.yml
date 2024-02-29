@@ -21,15 +21,15 @@
 title: BAATHHAUS
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-BAATHHAUS was a Chicago based queer-performance-art-group-band 
-comprised of multidisciplinary artists Patrick Andrews, Dan Foley, 
-Jesse Young, & Jesse Hozeny creating provocative and original music, 
-dance, and visual art. BAATHHAUS weaves its songs together with 
-narrative, choreography, and costumes combining popular music and 
-culture with dark themes and avant-garde theatrical work 
-(glitter and gore) explicitly exploring the concepts of “otherness”. 
-Performances usually give a metaphorical wink to audiences while 
-seriously addressing strong political and social themes.
+  BAATHHAUS was a Chicago based queer-performance-art-group-band 
+  comprised of multidisciplinary artists Patrick Andrews, Dan Foley, 
+  Jesse Young, & Jesse Hozeny creating provocative and original music, 
+  dance, and visual art. BAATHHAUS weaves its songs together with 
+  narrative, choreography, and costumes combining popular music and 
+  culture with dark themes and avant-garde theatrical work 
+  (glitter and gore) explicitly exploring the concepts of “otherness”. 
+  Performances usually give a metaphorical wink to audiences while 
+  seriously addressing strong political and social themes.
 baseurl: "/bh-jekyll" # the subpath of your site, e.g. /blog
 url: "https://d-otis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 

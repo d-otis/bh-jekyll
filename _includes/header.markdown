@@ -4,18 +4,18 @@
     <title>{{ site.title }}</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+    <link rel="manifest" href="./site.webmanifest">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
-    <meta property="og:image" content="{{ site.url }}/{{ site.baseurl }}/images/bio.jpg">
+    <meta property="og:image" content="./images/bio.jpg">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,900&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/a32031ea36.js"></script>
     <link rel="stylesheet" href="https://use.typekit.net/qmh2vpz.css">
-    <link rel="stylesheet" href="{{ site.url }}/{{ site.baseurl }}/css/style.css">
+    <link rel="stylesheet" href="./css/style.css">
   </head>
     <body>
       <header class="text-center mb-3">

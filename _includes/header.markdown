@@ -19,9 +19,9 @@
   </head>
     <body>
       <header class="text-center mb-3">
-        <span class="logo"><a href="/">{{ site.title }}</a></span>
+        <span class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></span>
         <nav class="navbar navbar-expand-md navbar-dark bg-transparent mt-0 pt-0">
-          <a class="navbar-brand" href="/">{{ site.title }}</a>
+          <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -59,19 +59,19 @@
                 </div>
               </li>
               <li class="nav-item">
-                <a href="/video" class="nav-link text-lowercase">[video]</a>
+                <a href="{{ site.baseurl }}/video" class="nav-link text-lowercase">[video]</a>
               </li>
               <li class="nav-item">
-                <a href="/shows" class="nav-link text-lowercase">[shows]</a>
+                <a href="{{ site.baseurl }}/shows" class="nav-link text-lowercase">[shows]</a>
               </li>
               <li class="nav-item">
-                <a href="/links" class="nav-link text-lowercase">[links]</a>
+                <a href="{{ site.baseurl }}/links" class="nav-link text-lowercase">[links]</a>
               </li>
               <li class="nav-item">
-                <a href="/contact" class="nav-link text-lowercase">[contact]</a>
+                <a href="{{ site.baseurl }}/contact" class="nav-link text-lowercase">[contact]</a>
               </li>
               <li class="nav-item">
-                <a href="/about" class="nav-link text-lowercase">[about]</a>
+                <a href="{{ site.baseurl }}/about" class="nav-link text-lowercase">[about]</a>
               </li>
             </ul>		
           </div>

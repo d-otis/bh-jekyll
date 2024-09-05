@@ -9,6 +9,11 @@ permalink: /links
   >
 </p>
 <p>
+  <a href="https://www.patrickandrewsartist.com/" target="_blank" rel="noopener noreferrer"
+    >patrick andrews</a
+  >
+</p>
+<p>
   <a href="http://jesseblakemusic.com" target="_blank" rel="noopener noreferrer"
     >jesse blake</a
   >

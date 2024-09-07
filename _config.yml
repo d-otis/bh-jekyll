@@ -32,6 +32,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.baathhaus.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/Baathhaus_500x500.jpg
+tagline: "A queer performance art group band"
 
 twitter:
   username: baathhaus
@@ -52,6 +53,7 @@ defaults:
       type: "pages" # previously `post` in Jekyll 2.2.
     values:
       layout: "default"
+      image: "/images/Baathhaus_500x500.jpg"
 
 # Build settings
 plugins:

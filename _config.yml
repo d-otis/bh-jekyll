@@ -30,7 +30,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Performances usually give a metaphorical wink to audiences while 
   seriously addressing strong political and social themes.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.baathhaus.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://baathhaus.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/Baathhaus_500x500.jpg
 tagline: "A queer performance art group band"
 

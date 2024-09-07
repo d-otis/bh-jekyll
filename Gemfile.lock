@@ -153,6 +153,7 @@ DEPENDENCIES
   jekyll-email-protect
   jekyll-environment-variables
   jekyll-feed (~> 0.12)
+  jekyll-seo-tag
   jekyll-sitemap
   minima (~> 2.5)
   tzinfo (>= 1, < 3)

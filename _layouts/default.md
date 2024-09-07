@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 
-{% include header.markdown %}
+{% include header.html %}
 
 <section class="main mt-5">
   <div class="container">

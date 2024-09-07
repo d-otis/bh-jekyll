@@ -31,6 +31,20 @@ description: >- # this means to ignore newlines until "baseurl:"
   seriously addressing strong political and social themes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.baathhaus.com" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /images/Baathhaus_500x500.jpg
+
+twitter:
+  username: baathhaus
+  card: summary
+
+facebook:
+  publisher: https://www.facebook.com/BAATHHAUS/
+
+social:
+  links:
+    - https://www.x.com/baathhaus
+    - https://www.instagram.com/baathhaus/
+    - https://www.facebook.com/baathhaus
 
 defaults:
   - scope:
